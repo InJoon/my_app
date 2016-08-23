@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.1",
+  "description": "first npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "first test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InJoon/my_app.git"
+  },
+  "keywords": [
+    "sow"
+  ],
+  "author": "sowcome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InJoon/my_app/issues"
+  },
+  "homepage": "https://github.com/InJoon/my_app#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
